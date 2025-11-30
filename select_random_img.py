@@ -2,7 +2,7 @@ import os
 import random
 import shutil
 
-ROOT = "data_preprocessed"
+ROOT = "data"
 OUT_ROOT = "data_balanced"
 TRAIN_SIZE = 1600
 TEST_SIZE = 400

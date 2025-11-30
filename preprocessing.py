@@ -1,8 +1,8 @@
 import os
 import cv2
 
-INPUT_ROOT = "data"
-OUTPUT_ROOT = "data_preprocessed"
+INPUT_ROOT = "data_balanced"
+OUTPUT_ROOT = "data_balanced_preprocessed"
 TARGET_SIZE = (64, 64)
 
 def preprocess_opencv(path):
